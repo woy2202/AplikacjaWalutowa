@@ -15,11 +15,11 @@ Aplikacja na platformę Android do sprawdzania aktualnych kursów walut, przelic
 
 | Logowanie | Rejestracja | Ekran Główny |
 | :---: |:---:|:---:|
-| <img src="https://github.com/woy2202/AplikacjaWalutowa/raw/master/app/screenshots/Logowanie.png" alt="Ekran Logowania" width="200"/> | <img src="https://github.com/woy2202/AplikacjaWalutowa/blob/master/app/screenshots/Rejestracja.png" width="200"/> | <img src="link_do_screena_lista.png" alt="Ekran Główny z listą walut" width="200"/> |
+| <img src="https://github.com/woy2202/AplikacjaWalutowa/raw/master/app/screenshots/Logowanie.png" alt="Ekran Logowania" width="200"/> | <img src="https://github.com/woy2202/AplikacjaWalutowa/blob/master/app/screenshots/Rejestracja.png" width="200"/> | <img src="https://github.com/woy2202/AplikacjaWalutowa/blob/master/app/screenshots/Strona%20g%C5%82%C3%B3wna.png" alt="Ekran Główny z listą walut" width="200"/> |
 
 | Przelicznik Walut | Historia Kursu | Baza Danych Firebase |
 | :---: |:---:|:---:|
-| <img src="link_do_screena_przelicznik.png" alt="Ekran Przelicznika Walut" width="200"/> | <img src="link_do_screena_wykres.png" alt="Ekran Historii Kursu" width="200"/> | <img src="link_do_screena_firebase.png" alt="Potwierdzenie użytkownika w Firebase" width="200"/> |
+| <img src="https://github.com/woy2202/AplikacjaWalutowa/blob/master/app/screenshots/Przelicznik.png" alt="Ekran Przelicznika Walut" width="200"/> | <img src="https://github.com/woy2202/AplikacjaWalutowa/blob/master/app/screenshots/Historia%20kursu.png" alt="Ekran Historii Kursu" width="200"/> | <img src="https://github.com/woy2202/AplikacjaWalutowa/blob/master/app/screenshots/firebase.png" alt="Potwierdzenie użytkownika w Firebase" width="200"/> |
 
 <br>
 
