@@ -58,7 +58,7 @@ Aby uruchomić projekt lokalnie, postępuj zgodnie z poniższymi krokami:
 
 1.  **Sklonuj repozytorium**
   ```bash
-  git clone [https://github.com/TWOJA_NAZWA_UŻYTKOWNIKA/AplikacjaWalutowa.git](https://github.com/TWOJA_NAZWA_UŻYTKOWNIKA/AplikacjaWalutowa.git)
+  git clone https://github.com/woy2202/AplikacjaWalutowa.git
   ```
 2.  **Otwórz projekt** w najnowszej stabilnej wersji Android Studio.
 
@@ -75,7 +75,7 @@ Aby uruchomić projekt lokalnie, postępuj zgodnie z poniższymi krokami:
 
 ## ✍️ Autorzy
 
-Jola Jabłonowska
+Jola Jabłonowska i 
 Wojciech Gochnio
 
 ---
