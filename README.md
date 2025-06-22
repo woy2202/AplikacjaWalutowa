@@ -113,25 +113,42 @@ Aplikacja na platformę Android do sprawdzania aktualnych kursów walut, przelic
 
 ---
 
-## 🏗️ Architektura Projektu
+## 🔌 Użyte API
 
-Aplikacja została zbudowana w oparciu o zalecany przez Google wzorzec MVVM, oddzielając warstwę danych od logiki interfejsu użytkownika.
+Aplikacja do pobierania danych o kursach walut wykorzystuje publicznie dostępne [NBP Web API](https://api.nbp.pl/).
 
-<details>
-  <summary>Zobacz strukturę folderów</summary>
-  
-com.example.aplikacjawalutowa/
-├── data/         # Model: Repozytorium, źródła danych
-│   ├── local/    # Room (baza danych, DAO, encje)
-│   ├── remote/   # Retrofit (API, DTO)
-│   └── repository/
-├── ui/           # View & ViewModel: Aktywności, adaptery, ViewModele
-│   ├── converter/
-│   ├── history/
-│   ├── login/
-│   └── main/
-└── utils/        # Klasy pomocnicze
+---
 
-</details>
+## 🚀 Konfiguracja i Uruchomienie
+
+Aby uruchomić projekt lokalnie, postępuj zgodnie z poniższymi krokami:
+
+1.  **Sklonuj repozytorium**
+  ```bash
+  git clone [https://github.com/TWOJA_NAZWA_UŻYTKOWNIKA/AplikacjaWalutowa.git](https://github.com/TWOJA_NAZWA_UŻYTKOWNIKA/AplikacjaWalutowa.git)
+  ```
+2.  **Otwórz projekt** w najnowszej stabilnej wersji Android Studio.
+
+3.  **Skonfiguruj Firebase**
+  * Projekt używa Firebase Authentication. Plik konfiguracyjny `google-services.json` jest celowo ignorowany przez Git (w pliku `.gitignore`) ze względów bezpieczeństwa.
+  * Musisz utworzyć własny projekt w [Konsoli Firebase](https://console.firebase.google.com/).
+  * Dodaj do niego aplikację Android, używając nazwy pakietu: `com.example.aplikacjawalutowa`.
+  * W sekcji **Authentication** -> **Sign-in method** włącz dostawcę **E-mail/Hasło**.
+  * Pobierz wygenerowany plik `google-services.json` i umieść go w folderze `app/` swojego projektu.
+
+4.  **Zbuduj i uruchom aplikację.**
+
+---
+
+## ✍️ Autorzy
+
+Jola Jabłonowska
+Wojciech Gochnio
+
+---
+
+## 📄 Licencja
+
+Projekt udostępniony na licencji MIT. Zobacz plik `LICENSE`, aby uzyskać więcej informacji.
 
 
