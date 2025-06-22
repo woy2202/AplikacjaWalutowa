@@ -15,7 +15,7 @@ Aplikacja na platformę Android do sprawdzania aktualnych kursów walut, przelic
 
 | Logowanie | Rejestracja | Ekran Główny |
 | :---: |:---:|:---:|
-| <img src="https://github.com/woy2202/AplikacjaWalutowa/raw/master/app/screenshots/Logowanie.png" alt="Ekran Logowania" width="200"/> | <img src="link_do_screena_rejestracja.png" alt="Ekran Rejestracji" width="200"/> | <img src="link_do_screena_lista.png" alt="Ekran Główny z listą walut" width="200"/> |
+| <img src="https://github.com/woy2202/AplikacjaWalutowa/raw/master/app/screenshots/Logowanie.png" alt="Ekran Logowania" width="200"/> | <img src="https://github.com/woy2202/AplikacjaWalutowa/blob/master/app/screenshots/Rejestracja.png" width="200"/> | <img src="link_do_screena_lista.png" alt="Ekran Główny z listą walut" width="200"/> |
 
 | Przelicznik Walut | Historia Kursu | Baza Danych Firebase |
 | :---: |:---:|:---:|
