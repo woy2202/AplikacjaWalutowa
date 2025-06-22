@@ -1,11 +1,5 @@
-#  валюта Aplikacja Walutowa
+Aplikacja Walutowa
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform: Android">
-  <img src="https://img.shields.io/badge/Language-Java-blue.svg" alt="Language: Java">
-  <img src="https://img.shields.io/badge/API-24%2B-orange.svg" alt="Min API Level: 24">
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="License: MIT">
-</p>
 
 Aplikacja na platformę Android do sprawdzania aktualnych kursów walut, przeliczania kwot oraz przeglądania danych historycznych na interaktywnym wykresie. Projekt został zrealizowany w języku **Java** z wykorzystaniem architektury **MVVM** i klasycznego systemu widoków (XML).
 
@@ -21,7 +15,7 @@ Aplikacja na platformę Android do sprawdzania aktualnych kursów walut, przelic
 | :---: |:---:|:---:|
 | <img src="https://github.com/woy2202/AplikacjaWalutowa/blob/master/app/screenshots/Przelicznik.png" alt="Ekran Przelicznika Walut" width="200"/> | <img src="https://github.com/woy2202/AplikacjaWalutowa/blob/master/app/screenshots/Historia%20kursu.png" alt="Ekran Historii Kursu" width="200"/> | <img src="https://github.com/woy2202/AplikacjaWalutowa/blob/master/app/screenshots/firebase.png" alt="Potwierdzenie użytkownika w Firebase" width="200"/> |
 
-<br>
+
 
 ## ✨ Główne Funkcje
 
