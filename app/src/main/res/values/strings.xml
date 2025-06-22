@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplikacjaWalutowa</string>
+
+    <string name="converter_title">Przelicznik Walut</string>
+</resources>

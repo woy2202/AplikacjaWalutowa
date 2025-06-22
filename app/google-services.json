@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804432210559",
+    "project_id": "aplikacjawalutowa",
+    "storage_bucket": "aplikacjawalutowa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804432210559:android:ca3defbf1559d311726d4a",
+        "android_client_info": {
+          "package_name": "com.example.aplikacjawalutowa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDel9nkLoQ1bmXrNL5pL3SpAo62Wwrc1lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

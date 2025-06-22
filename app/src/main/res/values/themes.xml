@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.AplikacjaWalutowa" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.AplikacjaWalutowa.NoActionBar" parent="Theme.AplikacjaWalutowa">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
