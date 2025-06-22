@@ -1,14 +1,27 @@
+#  валюта Aplikacja Walutowa
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform: Android">
+  <img src="https://img.shields.io/badge/Language-Java-blue.svg" alt="Language: Java">
+  <img src="https://img.shields.io/badge/API-24%2B-orange.svg" alt="Min API Level: 24">
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="License: MIT">
+</p>
+
 Aplikacja na platformę Android do sprawdzania aktualnych kursów walut, przeliczania kwot oraz przeglądania danych historycznych na interaktywnym wykresie. Projekt został zrealizowany w języku **Java** z wykorzystaniem architektury **MVVM** i klasycznego systemu widoków (XML).
 
+---
 
 ## 📱 Podgląd Aplikacji
 
 | Logowanie | Rejestracja | Ekran Główny |
 | :---: |:---:|:---:|
-| <img src="link_do_screena_logowanie.png" alt="Ekran Logowania" width="200"/> | <img src="link_do_screena_rejestracja.png" alt="Ekran Rejestracji" width="200"/> | <img src="link_do_screena_lista.png" alt="Ekran Główny z listą walut" width="200"/> |
+| <img src="[link_do_screena_logowanie.png](https://github.com/woy2202/AplikacjaWalutowa/blob/master/app/screenshots/Logowanie.png)" alt="Ekran Logowania" width="200"/> | <img src="link_do_screena_rejestracja.png" alt="Ekran Rejestracji" width="200"/> | <img src="link_do_screena_lista.png" alt="Ekran Główny z listą walut" width="200"/> |
 
 | Przelicznik Walut | Historia Kursu | Baza Danych Firebase |
+| :---: |:---:|:---:|
+| <img src="link_do_screena_przelicznik.png" alt="Ekran Przelicznika Walut" width="200"/> | <img src="link_do_screena_wykres.png" alt="Ekran Historii Kursu" width="200"/> | <img src="link_do_screena_firebase.png" alt="Potwierdzenie użytkownika w Firebase" width="200"/> |
 
+<br>
 
 ## ✨ Główne Funkcje
 
